@@ -12,53 +12,53 @@ This project demonstrates advanced geospatial data processing, 3D visualization,
 
 1. **海南低空航线3D呈现（模拟）**  
    3D Visualization of Hainan Low-Altitude Routes (Simulation)  
-   [Watch Video](https://youtu.be/vz7ahJFp-uo)
+   [![Watch Video](https://img.youtube.com/vi/vz7ahJFp-uo/0.jpg)](https://youtu.be/vz7ahJFp-uo)
 
 2. **海南低空空域3D呈现（模拟）**  
    3D Visualization of Hainan Low-Altitude Airspace (Simulation)  
-   [Watch Video](https://youtu.be/E8ry1ONZDG8)
+   [![Watch Video](https://img.youtube.com/vi/E8ry1ONZDG8/0.jpg)](https://youtu.be/E8ry1ONZDG8)
 
 ### Drone Trajectory Planning
 
 3. **三亚机场附近无人机时空规划（数据获取）**  
    Drone Spatiotemporal Planning near Sanya Airport (Data Acquisition)  
-   [Watch Video](https://youtu.be/4c6ShrFnoGE)
+   [![Watch Video](https://img.youtube.com/vi/4c6ShrFnoGE/0.jpg)](https://youtu.be/4c6ShrFnoGE)
 
 4. **三亚机场附近无人机时空规划（影像获取）**  
    Drone Spatiotemporal Planning near Sanya Airport (Image Acquisition)  
-   [Watch Video](https://youtu.be/dq7oEqaCEPw)
+   [![Watch Video](https://img.youtube.com/vi/dq7oEqaCEPw/0.jpg)](https://youtu.be/dq7oEqaCEPw)
 
 5. **三亚机场附近无人机时空规划影像呈现**  
    Drone Spatiotemporal Planning Visualization near Sanya Airport  
-   [Watch Video](https://youtu.be/kYCkX-BpxnI)
+   [![Watch Video](https://img.youtube.com/vi/kYCkX-BpxnI/0.jpg)](https://youtu.be/kYCkX-BpxnI)
 
 ### Drone Flight Trajectories
 
 6. **无人机航迹（巡线）**  
    Drone Trajectory (Power Line Inspection)  
-   [Watch Video](https://youtu.be/plsUDmES5yM)
+   [![Watch Video](https://img.youtube.com/vi/plsUDmES5yM/0.jpg)](https://youtu.be/plsUDmES5yM)
 
 7. **无人机航迹（植保）**  
    Drone Trajectory (Agricultural Protection)  
-   [Watch Video](https://youtu.be/TmozMTQrrdc)
+   [![Watch Video](https://img.youtube.com/vi/TmozMTQrrdc/0.jpg)](https://youtu.be/TmozMTQrrdc)
 
 8. **无人机航迹（观光）**  
    Drone Trajectory (Tourism/Sightseeing)  
-   [Watch Video](https://youtu.be/6D2qJ13hBGc)
+   [![Watch Video](https://img.youtube.com/vi/6D2qJ13hBGc/0.jpg)](https://youtu.be/6D2qJ13hBGc)
 
 ### Economic & Observational Analysis
 
 9. **海南低空经济仪表盘（数据获取）**  
    Hainan Low-Altitude Economy Dashboard (Data Acquisition)  
-   [Watch Video](https://youtu.be/gJ8Tp1fkONc)
+   [![Watch Video](https://img.youtube.com/vi/gJ8Tp1fkONc/0.jpg)](https://youtu.be/gJ8Tp1fkONc)
 
 10. **三亚机场固定观测（数据获取）**  
     Fixed Observation at Sanya Airport (Data Acquisition)  
-    [Watch Video](https://youtu.be/VPKwsXldAHo)
+    [![Watch Video](https://img.youtube.com/vi/VPKwsXldAHo/0.jpg)](https://youtu.be/VPKwsXldAHo)
 
 11. **三亚机场附近经济活动投影（影像呈现）**  
     Economic Activity Projection near Sanya Airport (Image Visualization)  
-    [Watch Video](https://youtu.be/UdzbuL6XPtM)
+    [![Watch Video](https://img.youtube.com/vi/UdzbuL6XPtM/0.jpg)](https://youtu.be/UdzbuL6XPtM)
 
 ## Key Features
 
